@@ -3,3 +3,5 @@ Esta es la historia de Ricardo Patiño
 Ricardo Patiño tiene 25 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral
+
+Agrego esta linea para hacer un commit
