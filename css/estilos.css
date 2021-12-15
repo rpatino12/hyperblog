@@ -44,3 +44,12 @@ body
     padding: 1em;
 
 }
+
+#footer
+{
+    text-align: center;
+    padding: 0.3em;
+    background: #777;
+    color: white;
+    border: 1px solid #ddd8;
+}
