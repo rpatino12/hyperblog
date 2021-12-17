@@ -6,4 +6,6 @@ Mañana nos enfocaremos en su vida laboral
 
 Main 1
 
+Main 2
+
 Ricardo esta muy emocionado por salir adelante en el mundo de la programación
